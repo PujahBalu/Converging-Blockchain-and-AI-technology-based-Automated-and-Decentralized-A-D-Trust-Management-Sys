@@ -106,3 +106,11 @@ The next step involves implementing the proposed face detection and rating algor
 For more information:  
 📧 pujahbalasubramaniam.55@gmail.com  
 📧 ggoki5553@gmail.com
+
+---
+
+## 📄 License
+
+This project is licensed under the [Apache License 2.0](LICENSE) © 2024 Pujah Balasubramaniam.
+
+---
